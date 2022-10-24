@@ -1,3 +1,5 @@
+# The purpose of this script to to transer numbers from one space to another and retain the number settings.
+
 import base64
 from time import sleep
 import requests
